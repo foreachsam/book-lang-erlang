@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Erlang \u5b78\u7fd2\u7b46\u8a18\n\n\n\u9019\u662f\u5b78\u7fd2\u300c\nErlang\n\u300d\u7684\u7c21\u55ae\u7d00\u9304\u3002",
+            "text": "Erlang \u5b78\u7fd2\u7b46\u8a18\n\n\n\u9019\u662f\u5b78\u7fd2\u300c\nErlang\n\u300d\u7684\u7c21\u55ae\u7d00\u9304\u3002\n\n\n\u53e6\u5916\u59ca\u59b9\u7bc7\u300c\nElixir \u5b78\u7fd2\u7b46\u8a18\n\u300d\u3002",
             "title": "\u9996\u9801"
         },
         {
             "location": "/#erlang",
-            "text": "\u9019\u662f\u5b78\u7fd2\u300c Erlang \u300d\u7684\u7c21\u55ae\u7d00\u9304\u3002",
+            "text": "\u9019\u662f\u5b78\u7fd2\u300c Erlang \u300d\u7684\u7c21\u55ae\u7d00\u9304\u3002  \u53e6\u5916\u59ca\u59b9\u7bc7\u300c Elixir \u5b78\u7fd2\u7b46\u8a18 \u300d\u3002",
             "title": "Erlang \u5b78\u7fd2\u7b46\u8a18"
         }
     ]
